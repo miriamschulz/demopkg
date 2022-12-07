@@ -8,6 +8,15 @@
 \description{
 The goal of demopkg is to practice making a package.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/miriamschulz/demopkg}
+  \item \url{https://miriamschulz.github.io/demopkg/}
+  \item Report bugs at \url{https://github.com/miriamschulz/demopkg/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Miriam Schulz \email{mirischulz@gmail.com} (\href{https://orcid.org/0000-0002-9708-7936}{ORCID})
 
